@@ -1,0 +1,11 @@
+{
+  "name": "mallcop",
+  "owner": { "name": "Clayton-WorK" },
+  "plugins": [
+    {
+      "name": "mallcop-segway",
+      "source": "./",
+      "description": "While Claude is thinking, a mustachioed mall cop patrols in a tight circle on his segway above the prompt."
+    }
+  ]
+}
