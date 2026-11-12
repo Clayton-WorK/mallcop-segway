@@ -1,0 +1,6 @@
+{
+  "name": "mallcop-segway",
+  "version": "0.2.0",
+  "description": "While Claude is thinking, a mustachioed mall cop patrols in a tight circle on his segway above the prompt.",
+  "types": "./types/index.d.ts"
+}
